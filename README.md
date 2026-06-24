@@ -62,3 +62,6 @@ I also learned that there can be multiple correct solutions to the same problem.
 I am currently more confident with easy problems and the basic theory of the topics covered. Medium-level questions are still a work in progress, especially when the required approach is not obvious.
 
 The next goal is to practise more medium-level questions, depend less on hints, and improve my ability to identify the correct pattern independently.
+
+Link to Codolio: https://codolio.com/profile/Grim_Reaper
+
